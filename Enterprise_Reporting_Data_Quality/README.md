@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # Enterprise Reporting Automation & Data Quality Monitoring System
 
 **Portfolio project | Python + SQL + Power BI + PowerPoint**
