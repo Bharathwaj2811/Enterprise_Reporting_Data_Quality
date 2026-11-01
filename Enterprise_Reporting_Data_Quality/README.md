@@ -4,7 +4,7 @@
 
 A synthetic enterprise reporting pipeline demonstrating multi-source consolidation, data validation, reconciliation, exception management, operational reporting, and stakeholder-ready analytics. It is designed around the responsibilities of a Reporting & Analytics Support analyst.
 
-> Independent portfolio work. All data is synthetic; it is not affiliated with Deloitte and contains no real employee or client information.
+> Independent portfolio work. All data is synthetic; it is not affiliated with Any Company and contains no real employee or client information.
 
 ## Business scenario
 A global organization receives recurring structured extracts from HRIS, LMS, Finance, Procurement, and CRM. The reporting team needs reliable consolidated outputs, clear validation rules, traceable exceptions, and management reporting.
@@ -48,9 +48,6 @@ Follow `powerbi/POWER_BI_BUILD_GUIDE.md`. Import validated records and exception
 - Exception rows = distinct exception-register records after deduplication.
 - Reconciliation = compare source-level row counts and metric totals against validated warehouse outputs.
 - Blocking defects are quarantined for remediation, not silently deleted.
-
-## Deloitte role alignment
-Recurring report preparation; data gathering and validation; reconciliation; anomaly detection; exception tracking; dashboards; documentation; and stakeholder-ready PowerPoint summaries.
 
 ## Interview positioning
 Explain the pipeline as a controlled reporting workflow: ingest -> standardize -> validate -> quarantine -> load -> visualize -> reconcile -> communicate. Describe why you preserve raw inputs, document rules, and escalate ambiguous data definitions.
