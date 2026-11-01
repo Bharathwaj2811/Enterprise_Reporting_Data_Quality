@@ -1,0 +1,11 @@
+{
+  "source_rows": 5015,
+  "validated_rows": 4919,
+  "exception_rows": 97,
+  "duplicate_record_ids": 30,
+  "unknown_employee_rows": 19,
+  "missing_record_date_rows": 20,
+  "invalid_metric_rows": 16,
+  "unknown_source_rows": 12,
+  "note": "Synthetic demonstration data; blocked rows are quarantined, not silently discarded."
+}

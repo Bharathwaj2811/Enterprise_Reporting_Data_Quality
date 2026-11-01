@@ -1,0 +1,2 @@
+Calendar = ADDCOLUMNS(CALENDAR(DATE(2025,1,1),DATE(2027,12,31)),
+"Year",YEAR([Date]),"Month",FORMAT([Date],"MMM"),"Year-Month",FORMAT([Date],"YYYY-MM"),"Quarter","Q"&FORMAT([Date],"Q"))

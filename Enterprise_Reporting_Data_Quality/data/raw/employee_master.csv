@@ -1,0 +1,601 @@
+employee_id,department,region,country,business_unit,hire_date,active_flag
+EMP00001,Consulting,EMEA,UK,Global,2019-03-03,1
+EMP00002,Consulting,APAC,Singapore,Operations,2023-11-10,1
+EMP00003,Technology,Americas,Brazil,Operations,2017-01-10,1
+EMP00004,Finance,APAC,Singapore,Global,2025-11-20,1
+EMP00005,Finance,Americas,Canada,Global,2020-09-19,1
+EMP00006,People & Purpose,APAC,Singapore,Operations,2022-04-08,1
+EMP00007,Tax,APAC,India,Global,2024-10-26,1
+EMP00008,People & Purpose,EMEA,UAE,Operations,2017-11-09,1
+EMP00009,Technology,Americas,USA,Operations,2020-09-09,1
+EMP00010,People & Purpose,APAC,Singapore,Global,2025-10-07,1
+EMP00011,Consulting,APAC,Singapore,Operations,2025-09-17,1
+EMP00012,Consulting,APAC,Australia,Global,2026-04-16,1
+EMP00013,Finance,EMEA,UAE,Operations,2022-12-15,1
+EMP00014,Legal,Americas,Canada,Operations,2018-07-21,1
+EMP00015,Tax,EMEA,UK,Global,2022-07-24,1
+EMP00016,Consulting,Americas,Canada,Global,2019-11-15,0
+EMP00017,Technology,Americas,Canada,Global,2024-04-19,1
+EMP00018,Technology,Americas,USA,Global,2020-05-06,1
+EMP00019,Finance,APAC,Singapore,Advisory,2026-02-22,1
+EMP00020,Tax,Americas,USA,Advisory,2018-08-23,1
+EMP00021,Technology,APAC,India,Global,2017-12-28,1
+EMP00022,Tax,EMEA,Germany,Advisory,2018-02-27,1
+EMP00023,Audit,APAC,Singapore,Global,2025-08-28,1
+EMP00024,Audit,APAC,India,Global,2017-07-26,0
+EMP00025,Technology,APAC,Australia,Advisory,2023-06-20,1
+EMP00026,Legal,Americas,Canada,Operations,2020-01-02,1
+EMP00027,Legal,APAC,Australia,Advisory,2020-04-23,1
+EMP00028,Legal,EMEA,UK,Global,2023-08-22,1
+EMP00029,Tax,APAC,Australia,Global,2017-02-06,1
+EMP00030,People & Purpose,APAC,India,Operations,2017-12-07,1
+EMP00031,Tax,APAC,Australia,Advisory,2020-03-08,1
+EMP00032,People & Purpose,EMEA,UAE,Advisory,2019-03-06,1
+EMP00033,Legal,Americas,Canada,Advisory,2017-12-19,1
+EMP00034,Consulting,EMEA,UK,Advisory,2021-02-17,1
+EMP00035,Legal,Americas,Brazil,Operations,2022-11-19,1
+EMP00036,Legal,Americas,Canada,Advisory,2025-05-16,1
+EMP00037,Technology,Americas,Canada,Global,2020-01-29,1
+EMP00038,Audit,APAC,Singapore,Operations,2017-07-20,1
+EMP00039,People & Purpose,Americas,Brazil,Operations,2024-08-05,1
+EMP00040,Tax,Americas,Brazil,Operations,2018-05-07,1
+EMP00041,Consulting,APAC,India,Operations,2020-11-06,1
+EMP00042,Technology,Americas,Brazil,Operations,2021-03-24,1
+EMP00043,Consulting,Americas,USA,Advisory,2022-02-02,1
+EMP00044,Finance,Americas,USA,Global,2022-01-17,1
+EMP00045,Legal,APAC,Singapore,Operations,2026-07-16,1
+EMP00046,Tax,EMEA,UK,Global,2021-03-20,1
+EMP00047,Finance,APAC,Australia,Advisory,2026-03-03,1
+EMP00048,Technology,EMEA,UK,Operations,2024-06-30,1
+EMP00049,People & Purpose,APAC,Australia,Advisory,2022-09-27,1
+EMP00050,Technology,APAC,Singapore,Global,2023-01-27,1
+EMP00051,Consulting,Americas,Canada,Advisory,2019-07-30,1
+EMP00052,Legal,Americas,Brazil,Advisory,2025-04-09,1
+EMP00053,Finance,Americas,USA,Advisory,2024-10-23,1
+EMP00054,Technology,Americas,Brazil,Advisory,2024-03-20,1
+EMP00055,Technology,EMEA,Germany,Global,2022-08-23,1
+EMP00056,Audit,Americas,Canada,Advisory,2025-12-07,1
+EMP00057,Consulting,APAC,Australia,Global,2026-04-29,1
+EMP00058,Consulting,EMEA,Germany,Advisory,2019-09-08,1
+EMP00059,Legal,APAC,Australia,Operations,2017-10-06,1
+EMP00060,Tax,APAC,Singapore,Operations,2021-09-13,1
+EMP00061,People & Purpose,Americas,Canada,Operations,2021-06-27,1
+EMP00062,Technology,APAC,Singapore,Operations,2020-12-28,1
+EMP00063,Audit,EMEA,Germany,Advisory,2023-03-21,1
+EMP00064,Tax,EMEA,UAE,Advisory,2020-03-10,1
+EMP00065,Technology,EMEA,UAE,Global,2023-06-19,1
+EMP00066,Consulting,EMEA,UAE,Advisory,2023-09-15,0
+EMP00067,Consulting,APAC,Singapore,Global,2018-05-20,1
+EMP00068,Audit,APAC,India,Advisory,2023-06-22,1
+EMP00069,Tax,EMEA,UAE,Advisory,2025-09-01,1
+EMP00070,Consulting,APAC,Singapore,Operations,2017-04-10,1
+EMP00071,People & Purpose,APAC,Australia,Advisory,2019-08-07,1
+EMP00072,People & Purpose,Americas,USA,Advisory,2018-03-15,1
+EMP00073,Tax,EMEA,UK,Global,2017-08-26,1
+EMP00074,Legal,EMEA,Germany,Advisory,2023-01-12,1
+EMP00075,People & Purpose,APAC,Singapore,Operations,2019-08-03,1
+EMP00076,Tax,Americas,Brazil,Operations,2025-11-26,1
+EMP00077,Technology,Americas,USA,Global,2026-04-18,1
+EMP00078,Consulting,APAC,Singapore,Advisory,2017-08-04,1
+EMP00079,Tax,Americas,Brazil,Global,2021-02-08,1
+EMP00080,Technology,Americas,Canada,Global,2018-04-14,1
+EMP00081,Technology,EMEA,Germany,Operations,2021-08-08,1
+EMP00082,Consulting,APAC,India,Global,2024-03-03,1
+EMP00083,Finance,EMEA,UAE,Advisory,2025-05-11,1
+EMP00084,Consulting,EMEA,UAE,Advisory,2019-07-28,1
+EMP00085,Tax,APAC,India,Operations,2019-10-21,1
+EMP00086,Finance,Americas,USA,Advisory,2018-01-08,0
+EMP00087,Technology,Americas,Brazil,Advisory,2019-07-24,1
+EMP00088,Finance,Americas,USA,Advisory,2020-09-17,1
+EMP00089,Technology,APAC,Singapore,Advisory,2023-09-02,1
+EMP00090,Legal,APAC,Singapore,Advisory,2018-09-14,1
+EMP00091,Tax,APAC,India,Global,2021-02-05,0
+EMP00092,Consulting,EMEA,UAE,Advisory,2022-09-15,1
+EMP00093,Legal,EMEA,UAE,Global,2023-11-06,0
+EMP00094,Tax,EMEA,UK,Advisory,2022-03-06,0
+EMP00095,Tax,APAC,India,Operations,2020-01-09,1
+EMP00096,Technology,APAC,Singapore,Operations,2019-11-21,1
+EMP00097,Consulting,EMEA,Germany,Global,2021-08-18,1
+EMP00098,Audit,EMEA,UAE,Global,2023-03-27,1
+EMP00099,Finance,EMEA,UAE,Global,2024-12-18,1
+EMP00100,Finance,APAC,Australia,Global,2025-11-15,1
+EMP00101,Technology,EMEA,Germany,Global,2026-01-02,1
+EMP00102,Consulting,APAC,India,Advisory,2020-06-19,1
+EMP00103,Legal,Americas,USA,Operations,2020-01-20,1
+EMP00104,Audit,APAC,Australia,Global,2018-04-25,1
+EMP00105,Audit,APAC,Singapore,Advisory,2018-03-26,1
+EMP00106,Audit,Americas,USA,Operations,2026-04-13,1
+EMP00107,Finance,EMEA,UK,Operations,2020-10-12,1
+EMP00108,Audit,Americas,Brazil,Advisory,2021-06-22,1
+EMP00109,Tax,EMEA,UK,Global,2017-06-02,1
+EMP00110,Legal,EMEA,UK,Global,2023-03-02,1
+EMP00111,Finance,Americas,Canada,Operations,2022-08-29,1
+EMP00112,Audit,Americas,USA,Advisory,2022-01-30,1
+EMP00113,People & Purpose,APAC,India,Global,2017-01-05,1
+EMP00114,Legal,EMEA,Germany,Global,2022-11-20,1
+EMP00115,Finance,EMEA,UK,Advisory,2026-07-24,1
+EMP00116,Consulting,EMEA,Germany,Operations,2024-08-11,1
+EMP00117,Audit,APAC,Singapore,Global,2022-12-07,1
+EMP00118,Consulting,APAC,Singapore,Global,2021-12-06,1
+EMP00119,Finance,APAC,Singapore,Advisory,2017-11-02,1
+EMP00120,Legal,EMEA,Germany,Operations,2020-04-03,1
+EMP00121,Technology,EMEA,UAE,Advisory,2021-01-07,1
+EMP00122,Technology,APAC,India,Advisory,2022-08-17,1
+EMP00123,Finance,Americas,Canada,Advisory,2025-10-02,1
+EMP00124,Technology,APAC,Australia,Advisory,2026-05-14,1
+EMP00125,Technology,Americas,Brazil,Operations,2018-10-20,1
+EMP00126,Legal,APAC,Singapore,Global,2021-11-03,0
+EMP00127,Consulting,EMEA,UAE,Advisory,2017-12-04,1
+EMP00128,People & Purpose,APAC,Australia,Global,2021-04-17,1
+EMP00129,Tax,EMEA,UK,Advisory,2021-02-23,1
+EMP00130,Consulting,Americas,Brazil,Advisory,2025-07-09,1
+EMP00131,People & Purpose,Americas,USA,Advisory,2024-09-05,1
+EMP00132,Legal,Americas,Canada,Global,2017-02-04,1
+EMP00133,Tax,APAC,India,Advisory,2020-04-21,1
+EMP00134,Consulting,EMEA,UK,Advisory,2023-02-22,1
+EMP00135,Audit,EMEA,UAE,Advisory,2020-12-17,1
+EMP00136,Audit,APAC,Singapore,Global,2021-09-29,1
+EMP00137,Audit,EMEA,UK,Operations,2023-03-09,1
+EMP00138,People & Purpose,Americas,Brazil,Advisory,2018-07-08,1
+EMP00139,Audit,Americas,Brazil,Operations,2018-11-12,1
+EMP00140,Tax,EMEA,UAE,Global,2022-09-10,1
+EMP00141,Audit,EMEA,UAE,Global,2021-05-13,1
+EMP00142,Finance,APAC,Australia,Operations,2025-06-22,1
+EMP00143,People & Purpose,EMEA,Germany,Advisory,2018-03-29,1
+EMP00144,Audit,EMEA,Germany,Advisory,2017-03-09,1
+EMP00145,People & Purpose,Americas,USA,Advisory,2018-05-10,1
+EMP00146,Technology,APAC,Singapore,Global,2022-12-12,1
+EMP00147,Tax,APAC,India,Advisory,2020-12-16,1
+EMP00148,Consulting,EMEA,Germany,Advisory,2020-07-27,1
+EMP00149,Technology,APAC,Australia,Operations,2022-02-04,0
+EMP00150,Tax,Americas,USA,Global,2020-05-11,1
+EMP00151,Consulting,APAC,Singapore,Advisory,2018-01-09,1
+EMP00152,People & Purpose,APAC,India,Advisory,2024-07-28,1
+EMP00153,Consulting,EMEA,UK,Operations,2017-05-18,1
+EMP00154,Audit,APAC,India,Global,2023-03-21,1
+EMP00155,Audit,Americas,Brazil,Global,2018-10-09,1
+EMP00156,Audit,APAC,Singapore,Operations,2020-05-06,1
+EMP00157,Legal,APAC,Singapore,Advisory,2019-01-02,1
+EMP00158,People & Purpose,Americas,Brazil,Global,2025-09-20,1
+EMP00159,Technology,APAC,Singapore,Advisory,2025-11-02,1
+EMP00160,Tax,EMEA,Germany,Advisory,2024-05-27,1
+EMP00161,Finance,Americas,USA,Global,2018-12-24,1
+EMP00162,Tax,EMEA,UK,Advisory,2018-10-25,0
+EMP00163,Consulting,Americas,Brazil,Operations,2018-11-28,1
+EMP00164,Legal,Americas,USA,Advisory,2022-05-16,0
+EMP00165,Finance,Americas,USA,Operations,2017-06-05,1
+EMP00166,People & Purpose,EMEA,UAE,Operations,2018-02-10,1
+EMP00167,Tax,EMEA,Germany,Global,2022-04-16,1
+EMP00168,Consulting,Americas,Canada,Global,2023-09-04,1
+EMP00169,People & Purpose,EMEA,Germany,Operations,2024-07-06,1
+EMP00170,People & Purpose,Americas,Brazil,Global,2021-11-25,1
+EMP00171,Technology,EMEA,UAE,Global,2023-06-13,1
+EMP00172,Consulting,APAC,Singapore,Global,2022-06-15,1
+EMP00173,People & Purpose,EMEA,UAE,Global,2018-02-04,1
+EMP00174,People & Purpose,EMEA,Germany,Global,2023-09-01,1
+EMP00175,People & Purpose,EMEA,UAE,Operations,2023-12-07,1
+EMP00176,Tax,APAC,India,Operations,2018-06-12,1
+EMP00177,Audit,EMEA,Germany,Advisory,2021-05-08,1
+EMP00178,Consulting,Americas,Brazil,Global,2022-01-28,1
+EMP00179,Tax,EMEA,UAE,Operations,2020-10-10,1
+EMP00180,Finance,Americas,Brazil,Advisory,2023-02-28,1
+EMP00181,Finance,EMEA,Germany,Operations,2021-01-09,1
+EMP00182,Legal,Americas,USA,Global,2019-04-04,1
+EMP00183,Finance,EMEA,UK,Operations,2018-02-12,1
+EMP00184,Legal,Americas,USA,Global,2018-08-10,1
+EMP00185,Legal,EMEA,UK,Global,2021-09-05,1
+EMP00186,Tax,EMEA,UK,Operations,2023-10-22,0
+EMP00187,Consulting,Americas,USA,Advisory,2020-12-20,1
+EMP00188,People & Purpose,EMEA,UK,Operations,2020-08-06,0
+EMP00189,Tax,EMEA,Germany,Operations,2024-09-13,1
+EMP00190,Consulting,APAC,Singapore,Global,2024-09-22,1
+EMP00191,People & Purpose,EMEA,Germany,Operations,2022-08-17,1
+EMP00192,Consulting,Americas,USA,Global,2017-03-01,1
+EMP00193,Tax,APAC,Australia,Operations,2024-08-10,1
+EMP00194,People & Purpose,EMEA,UAE,Operations,2020-04-15,1
+EMP00195,Tax,EMEA,Germany,Advisory,2020-10-11,1
+EMP00196,Consulting,APAC,India,Advisory,2019-07-04,1
+EMP00197,Audit,APAC,Australia,Advisory,2018-04-14,1
+EMP00198,Technology,EMEA,Germany,Global,2023-01-09,1
+EMP00199,Audit,Americas,Brazil,Operations,2026-04-20,1
+EMP00200,Tax,EMEA,UAE,Advisory,2023-11-25,1
+EMP00201,Tax,EMEA,UK,Global,2023-05-17,1
+EMP00202,Technology,APAC,India,Global,2024-11-17,1
+EMP00203,Technology,APAC,India,Operations,2024-05-01,1
+EMP00204,Consulting,EMEA,Germany,Global,2023-10-08,1
+EMP00205,Finance,APAC,India,Advisory,2020-08-16,1
+EMP00206,People & Purpose,Americas,Brazil,Global,2024-10-25,1
+EMP00207,Audit,Americas,USA,Global,2023-04-19,1
+EMP00208,Technology,APAC,Singapore,Operations,2024-04-04,1
+EMP00209,People & Purpose,APAC,Singapore,Advisory,2024-04-07,1
+EMP00210,Legal,Americas,Canada,Operations,2017-10-18,1
+EMP00211,Consulting,APAC,Singapore,Global,2019-12-01,1
+EMP00212,Legal,EMEA,Germany,Advisory,2024-05-03,1
+EMP00213,Tax,EMEA,UAE,Operations,2017-04-27,0
+EMP00214,People & Purpose,Americas,Brazil,Global,2025-05-11,1
+EMP00215,Legal,APAC,India,Global,2025-09-14,1
+EMP00216,Legal,APAC,Australia,Operations,2017-07-06,1
+EMP00217,Legal,APAC,India,Global,2017-09-02,1
+EMP00218,Legal,EMEA,Germany,Advisory,2023-10-13,1
+EMP00219,Tax,APAC,Australia,Global,2025-07-19,1
+EMP00220,Consulting,Americas,Brazil,Global,2022-09-08,1
+EMP00221,Technology,Americas,Brazil,Global,2017-12-25,0
+EMP00222,Tax,Americas,USA,Advisory,2022-12-07,0
+EMP00223,Legal,EMEA,Germany,Global,2026-04-21,1
+EMP00224,Technology,Americas,Brazil,Global,2017-06-14,1
+EMP00225,Audit,APAC,India,Operations,2025-02-09,1
+EMP00226,Technology,Americas,Brazil,Advisory,2020-03-04,1
+EMP00227,Legal,Americas,Canada,Advisory,2019-10-28,1
+EMP00228,Tax,Americas,Canada,Advisory,2017-01-05,1
+EMP00229,Legal,APAC,Singapore,Advisory,2023-11-30,1
+EMP00230,Consulting,APAC,Australia,Advisory,2023-07-18,1
+EMP00231,Finance,EMEA,Germany,Advisory,2018-11-14,1
+EMP00232,Tax,Americas,Canada,Operations,2018-07-27,1
+EMP00233,Legal,Americas,Canada,Operations,2017-01-13,1
+EMP00234,Tax,EMEA,UK,Operations,2023-04-05,1
+EMP00235,Finance,EMEA,UK,Global,2020-04-03,1
+EMP00236,Consulting,EMEA,Germany,Advisory,2026-06-02,1
+EMP00237,Audit,EMEA,UK,Global,2023-01-30,1
+EMP00238,Finance,APAC,Australia,Advisory,2018-11-03,1
+EMP00239,Consulting,EMEA,UK,Advisory,2023-04-11,1
+EMP00240,People & Purpose,Americas,Canada,Advisory,2021-04-22,1
+EMP00241,Consulting,Americas,Brazil,Operations,2023-03-15,1
+EMP00242,Finance,APAC,India,Global,2023-04-30,1
+EMP00243,Technology,Americas,Canada,Advisory,2020-02-03,1
+EMP00244,Tax,EMEA,Germany,Operations,2025-10-26,1
+EMP00245,People & Purpose,APAC,Australia,Advisory,2024-10-25,1
+EMP00246,Legal,Americas,Brazil,Advisory,2017-12-25,1
+EMP00247,Tax,EMEA,Germany,Global,2024-05-06,1
+EMP00248,Legal,Americas,USA,Operations,2026-04-04,1
+EMP00249,Tax,Americas,Brazil,Advisory,2022-10-27,1
+EMP00250,Legal,EMEA,Germany,Global,2018-09-29,1
+EMP00251,Consulting,EMEA,UK,Global,2021-08-18,1
+EMP00252,Tax,Americas,USA,Global,2021-08-10,1
+EMP00253,Audit,APAC,India,Advisory,2021-04-16,1
+EMP00254,Technology,EMEA,UAE,Advisory,2022-08-28,1
+EMP00255,Consulting,EMEA,UAE,Advisory,2019-12-03,1
+EMP00256,Legal,Americas,USA,Operations,2024-09-09,1
+EMP00257,Tax,Americas,Canada,Advisory,2019-12-05,1
+EMP00258,Audit,EMEA,UK,Global,2018-06-22,1
+EMP00259,Legal,EMEA,Germany,Global,2017-04-26,1
+EMP00260,Legal,APAC,India,Advisory,2023-12-10,1
+EMP00261,Audit,Americas,USA,Advisory,2019-09-11,1
+EMP00262,Tax,APAC,Australia,Global,2025-06-03,1
+EMP00263,Technology,Americas,Canada,Global,2022-10-22,1
+EMP00264,People & Purpose,APAC,Australia,Advisory,2021-09-08,1
+EMP00265,Audit,Americas,Brazil,Global,2026-03-30,1
+EMP00266,People & Purpose,EMEA,Germany,Operations,2024-12-28,0
+EMP00267,Technology,EMEA,UK,Advisory,2021-11-23,1
+EMP00268,Tax,Americas,Canada,Global,2023-09-27,1
+EMP00269,Technology,APAC,India,Advisory,2021-06-23,1
+EMP00270,Technology,Americas,Brazil,Global,2017-07-07,1
+EMP00271,Consulting,EMEA,Germany,Advisory,2022-03-10,1
+EMP00272,Audit,Americas,Brazil,Operations,2019-12-21,1
+EMP00273,Audit,EMEA,UAE,Advisory,2020-05-23,1
+EMP00274,Technology,APAC,Singapore,Global,2021-02-11,1
+EMP00275,Tax,EMEA,UAE,Global,2026-04-15,1
+EMP00276,Finance,APAC,India,Global,2023-05-07,1
+EMP00277,Consulting,EMEA,Germany,Operations,2023-11-26,1
+EMP00278,Finance,APAC,Singapore,Operations,2023-01-30,1
+EMP00279,Technology,APAC,India,Global,2021-07-28,1
+EMP00280,Tax,EMEA,UAE,Operations,2024-02-13,1
+EMP00281,Legal,APAC,Singapore,Advisory,2026-05-20,1
+EMP00282,People & Purpose,APAC,Singapore,Operations,2024-04-20,1
+EMP00283,Finance,Americas,Canada,Global,2021-02-24,1
+EMP00284,Technology,EMEA,UAE,Advisory,2020-04-28,1
+EMP00285,Legal,Americas,USA,Advisory,2020-04-13,1
+EMP00286,Consulting,EMEA,UK,Global,2020-11-30,0
+EMP00287,Consulting,Americas,USA,Global,2020-08-26,1
+EMP00288,People & Purpose,APAC,Australia,Advisory,2021-05-13,1
+EMP00289,People & Purpose,EMEA,UAE,Global,2022-03-28,1
+EMP00290,Legal,Americas,Brazil,Global,2026-05-14,1
+EMP00291,Finance,Americas,USA,Global,2021-05-26,1
+EMP00292,People & Purpose,APAC,India,Global,2024-01-17,1
+EMP00293,Tax,Americas,Brazil,Global,2021-05-09,1
+EMP00294,Tax,EMEA,UK,Advisory,2021-08-27,1
+EMP00295,Finance,Americas,Brazil,Operations,2019-04-21,0
+EMP00296,Tax,EMEA,UK,Advisory,2017-05-04,1
+EMP00297,People & Purpose,Americas,Brazil,Advisory,2020-12-13,1
+EMP00298,Legal,EMEA,Germany,Operations,2017-09-01,1
+EMP00299,People & Purpose,APAC,India,Operations,2018-11-18,1
+EMP00300,Legal,APAC,Singapore,Global,2018-04-01,1
+EMP00301,Tax,Americas,Brazil,Global,2021-03-01,1
+EMP00302,Finance,Americas,Brazil,Global,2019-12-01,1
+EMP00303,Consulting,EMEA,UAE,Advisory,2021-07-10,1
+EMP00304,Audit,Americas,Brazil,Operations,2026-01-13,1
+EMP00305,People & Purpose,APAC,India,Global,2023-07-14,1
+EMP00306,Consulting,Americas,Canada,Advisory,2023-02-13,1
+EMP00307,Tax,EMEA,Germany,Advisory,2019-02-15,1
+EMP00308,People & Purpose,EMEA,UK,Advisory,2017-11-02,1
+EMP00309,Legal,Americas,Canada,Operations,2026-02-12,1
+EMP00310,Tax,APAC,Singapore,Global,2024-08-09,1
+EMP00311,People & Purpose,APAC,Singapore,Advisory,2021-12-03,1
+EMP00312,People & Purpose,EMEA,UK,Global,2025-03-01,1
+EMP00313,Audit,Americas,USA,Global,2020-06-11,1
+EMP00314,Audit,Americas,Canada,Global,2019-03-27,1
+EMP00315,Audit,EMEA,UK,Advisory,2022-04-07,0
+EMP00316,Technology,APAC,Singapore,Operations,2025-07-10,1
+EMP00317,People & Purpose,Americas,Brazil,Operations,2026-03-07,1
+EMP00318,Tax,APAC,Australia,Global,2022-12-04,1
+EMP00319,Finance,Americas,Brazil,Global,2018-10-14,1
+EMP00320,Legal,APAC,Australia,Advisory,2023-04-03,1
+EMP00321,Tax,EMEA,Germany,Advisory,2025-08-13,1
+EMP00322,Technology,EMEA,UAE,Global,2020-12-21,1
+EMP00323,Audit,APAC,Australia,Operations,2023-06-25,1
+EMP00324,People & Purpose,APAC,Singapore,Operations,2022-06-15,1
+EMP00325,Technology,APAC,Singapore,Operations,2024-08-16,1
+EMP00326,Consulting,EMEA,UAE,Global,2017-03-13,1
+EMP00327,Audit,APAC,India,Global,2019-09-23,1
+EMP00328,Finance,EMEA,UAE,Operations,2025-06-08,1
+EMP00329,Audit,EMEA,Germany,Advisory,2024-04-10,1
+EMP00330,Finance,Americas,Canada,Advisory,2025-06-25,1
+EMP00331,Audit,APAC,India,Operations,2021-07-20,1
+EMP00332,Technology,Americas,Canada,Advisory,2021-06-12,1
+EMP00333,Finance,Americas,Brazil,Advisory,2019-09-13,1
+EMP00334,Legal,EMEA,UAE,Advisory,2022-07-23,1
+EMP00335,Audit,EMEA,UK,Advisory,2022-12-08,1
+EMP00336,Audit,EMEA,UK,Global,2020-08-07,1
+EMP00337,Consulting,APAC,Australia,Advisory,2017-01-30,1
+EMP00338,Consulting,Americas,Brazil,Operations,2021-06-25,1
+EMP00339,Tax,APAC,Australia,Global,2020-03-31,1
+EMP00340,Legal,APAC,Singapore,Global,2017-04-26,1
+EMP00341,Audit,EMEA,Germany,Global,2017-05-21,1
+EMP00342,Consulting,APAC,India,Global,2023-02-06,1
+EMP00343,Tax,Americas,USA,Operations,2025-01-06,1
+EMP00344,Legal,Americas,Brazil,Advisory,2021-12-30,1
+EMP00345,Tax,Americas,Canada,Advisory,2022-02-23,1
+EMP00346,Technology,EMEA,UAE,Global,2025-04-05,0
+EMP00347,Technology,EMEA,Germany,Operations,2023-02-14,1
+EMP00348,Finance,EMEA,UAE,Advisory,2023-04-01,1
+EMP00349,Technology,APAC,India,Advisory,2020-11-04,0
+EMP00350,People & Purpose,EMEA,UK,Operations,2023-03-24,1
+EMP00351,Finance,APAC,Australia,Global,2023-04-26,1
+EMP00352,Technology,EMEA,UAE,Global,2024-03-04,1
+EMP00353,Technology,APAC,India,Global,2018-06-26,1
+EMP00354,Technology,Americas,USA,Operations,2022-02-09,1
+EMP00355,Audit,EMEA,UK,Operations,2021-08-01,1
+EMP00356,Technology,EMEA,UK,Advisory,2019-08-26,1
+EMP00357,Finance,Americas,Canada,Global,2024-01-24,1
+EMP00358,Legal,APAC,Singapore,Advisory,2023-05-24,1
+EMP00359,Finance,EMEA,UAE,Global,2021-07-26,1
+EMP00360,Consulting,EMEA,Germany,Operations,2020-02-07,1
+EMP00361,Tax,Americas,Canada,Advisory,2018-03-12,1
+EMP00362,Consulting,Americas,Canada,Global,2023-05-15,1
+EMP00363,People & Purpose,Americas,Brazil,Global,2020-11-10,1
+EMP00364,People & Purpose,EMEA,UK,Advisory,2023-04-20,1
+EMP00365,Tax,Americas,Canada,Advisory,2021-04-05,0
+EMP00366,Consulting,APAC,India,Advisory,2022-09-24,1
+EMP00367,People & Purpose,EMEA,UK,Advisory,2025-05-09,1
+EMP00368,Legal,EMEA,Germany,Global,2021-07-26,1
+EMP00369,Legal,EMEA,UAE,Global,2025-12-22,0
+EMP00370,Legal,EMEA,Germany,Advisory,2019-06-02,1
+EMP00371,Finance,EMEA,Germany,Global,2023-12-04,1
+EMP00372,Technology,APAC,Singapore,Advisory,2025-07-06,1
+EMP00373,People & Purpose,EMEA,UK,Operations,2025-11-06,1
+EMP00374,Consulting,EMEA,UK,Global,2017-04-21,1
+EMP00375,Audit,APAC,Australia,Advisory,2017-07-03,1
+EMP00376,Consulting,APAC,Australia,Operations,2023-12-13,1
+EMP00377,Finance,Americas,Brazil,Global,2019-03-06,1
+EMP00378,Tax,Americas,USA,Operations,2024-12-19,1
+EMP00379,Tax,Americas,USA,Global,2023-10-19,1
+EMP00380,Tax,Americas,Canada,Global,2019-10-11,1
+EMP00381,Audit,Americas,Canada,Global,2017-08-02,1
+EMP00382,Finance,EMEA,Germany,Operations,2020-09-19,1
+EMP00383,Legal,APAC,India,Advisory,2024-03-20,1
+EMP00384,Legal,EMEA,UAE,Global,2018-04-05,1
+EMP00385,Technology,Americas,Canada,Advisory,2025-07-11,1
+EMP00386,Tax,EMEA,UAE,Advisory,2020-09-11,1
+EMP00387,Finance,Americas,Canada,Operations,2021-11-21,1
+EMP00388,Audit,Americas,Canada,Advisory,2017-02-08,1
+EMP00389,Audit,APAC,Australia,Global,2025-02-28,1
+EMP00390,Technology,EMEA,Germany,Operations,2019-08-06,1
+EMP00391,Tax,Americas,USA,Global,2025-12-21,1
+EMP00392,Technology,EMEA,Germany,Advisory,2020-03-23,1
+EMP00393,People & Purpose,Americas,Brazil,Global,2017-05-04,1
+EMP00394,Tax,Americas,Brazil,Global,2018-01-03,1
+EMP00395,Technology,Americas,USA,Advisory,2021-11-11,1
+EMP00396,Consulting,APAC,Australia,Advisory,2021-07-17,1
+EMP00397,Technology,Americas,USA,Global,2020-06-26,1
+EMP00398,Finance,Americas,USA,Operations,2017-12-22,1
+EMP00399,Consulting,Americas,USA,Operations,2022-11-03,1
+EMP00400,Consulting,APAC,Australia,Advisory,2018-12-29,1
+EMP00401,Legal,APAC,Australia,Advisory,2023-04-06,1
+EMP00402,Audit,EMEA,Germany,Global,2021-06-19,1
+EMP00403,People & Purpose,EMEA,UK,Operations,2017-12-26,1
+EMP00404,Legal,APAC,India,Global,2019-10-02,1
+EMP00405,Legal,APAC,Singapore,Global,2019-02-19,1
+EMP00406,People & Purpose,Americas,Canada,Advisory,2019-08-09,1
+EMP00407,Tax,APAC,India,Global,2024-07-09,1
+EMP00408,Finance,EMEA,Germany,Advisory,2024-11-22,1
+EMP00409,Tax,EMEA,UAE,Operations,2026-02-27,1
+EMP00410,Legal,Americas,Canada,Global,2017-04-28,1
+EMP00411,Audit,APAC,India,Advisory,2023-01-07,1
+EMP00412,Technology,Americas,USA,Advisory,2022-06-03,1
+EMP00413,Tax,Americas,Canada,Global,2020-04-25,1
+EMP00414,Technology,Americas,Brazil,Global,2020-04-11,1
+EMP00415,Legal,EMEA,UAE,Global,2020-01-02,1
+EMP00416,Legal,Americas,USA,Advisory,2017-10-30,1
+EMP00417,Tax,Americas,USA,Global,2025-02-09,1
+EMP00418,Consulting,Americas,Canada,Global,2025-03-10,1
+EMP00419,Legal,Americas,Brazil,Advisory,2018-01-04,1
+EMP00420,Finance,Americas,Canada,Operations,2019-02-18,1
+EMP00421,Finance,APAC,Singapore,Operations,2024-01-13,1
+EMP00422,Consulting,Americas,Brazil,Operations,2018-04-25,1
+EMP00423,People & Purpose,EMEA,UK,Global,2026-02-14,1
+EMP00424,People & Purpose,Americas,Canada,Operations,2026-06-28,1
+EMP00425,Finance,Americas,USA,Global,2020-11-08,1
+EMP00426,Tax,EMEA,Germany,Operations,2024-12-28,1
+EMP00427,Audit,Americas,Brazil,Global,2023-06-06,1
+EMP00428,Consulting,APAC,Singapore,Advisory,2019-02-05,1
+EMP00429,Legal,Americas,Canada,Operations,2025-12-17,1
+EMP00430,Technology,APAC,Singapore,Advisory,2022-03-28,1
+EMP00431,People & Purpose,EMEA,UK,Advisory,2025-11-16,1
+EMP00432,Technology,APAC,India,Global,2022-12-24,1
+EMP00433,Finance,Americas,Brazil,Advisory,2018-06-08,1
+EMP00434,Consulting,EMEA,UAE,Advisory,2020-04-28,1
+EMP00435,Audit,Americas,Brazil,Advisory,2024-09-06,1
+EMP00436,Audit,APAC,Australia,Global,2017-11-03,1
+EMP00437,Legal,Americas,Canada,Operations,2020-01-03,1
+EMP00438,Technology,EMEA,UK,Advisory,2026-04-02,1
+EMP00439,People & Purpose,EMEA,UAE,Global,2023-07-04,1
+EMP00440,Audit,Americas,Canada,Operations,2024-09-04,1
+EMP00441,Audit,Americas,Canada,Operations,2025-11-15,1
+EMP00442,Tax,Americas,Brazil,Operations,2022-07-07,1
+EMP00443,Audit,APAC,Australia,Operations,2024-06-11,1
+EMP00444,Finance,EMEA,UAE,Operations,2024-12-24,1
+EMP00445,Technology,Americas,Canada,Global,2019-03-20,1
+EMP00446,People & Purpose,APAC,Australia,Operations,2023-02-13,0
+EMP00447,Finance,EMEA,UAE,Global,2022-06-25,1
+EMP00448,People & Purpose,APAC,Singapore,Global,2025-01-08,1
+EMP00449,People & Purpose,EMEA,UK,Advisory,2017-06-05,1
+EMP00450,Consulting,EMEA,UAE,Advisory,2020-06-30,1
+EMP00451,People & Purpose,EMEA,Germany,Global,2021-03-14,1
+EMP00452,Finance,APAC,India,Advisory,2020-09-28,1
+EMP00453,Finance,EMEA,UAE,Global,2017-03-27,1
+EMP00454,Technology,EMEA,UK,Advisory,2018-12-10,1
+EMP00455,Audit,EMEA,Germany,Advisory,2021-10-15,1
+EMP00456,Consulting,Americas,Canada,Advisory,2024-01-31,1
+EMP00457,Technology,APAC,India,Operations,2024-01-23,1
+EMP00458,Tax,EMEA,UK,Global,2024-09-02,1
+EMP00459,Audit,EMEA,UK,Global,2019-01-28,1
+EMP00460,People & Purpose,Americas,Brazil,Global,2019-01-01,1
+EMP00461,Finance,APAC,India,Global,2024-03-08,1
+EMP00462,People & Purpose,APAC,India,Operations,2022-12-05,1
+EMP00463,Consulting,Americas,Canada,Advisory,2024-10-11,1
+EMP00464,Legal,EMEA,UK,Operations,2018-06-06,1
+EMP00465,Legal,EMEA,UK,Operations,2019-10-16,1
+EMP00466,Audit,EMEA,UK,Advisory,2024-02-14,1
+EMP00467,Consulting,APAC,Singapore,Operations,2019-01-31,1
+EMP00468,Audit,EMEA,UK,Operations,2018-10-26,1
+EMP00469,Finance,APAC,India,Global,2022-03-19,1
+EMP00470,Audit,EMEA,UAE,Advisory,2022-03-27,1
+EMP00471,Audit,APAC,Australia,Operations,2023-01-25,1
+EMP00472,Consulting,Americas,Canada,Operations,2023-06-24,1
+EMP00473,Tax,Americas,Brazil,Global,2019-05-01,1
+EMP00474,Audit,EMEA,Germany,Advisory,2020-07-18,1
+EMP00475,Legal,Americas,Canada,Advisory,2020-09-24,1
+EMP00476,Technology,APAC,India,Global,2017-04-25,1
+EMP00477,Technology,Americas,Brazil,Operations,2019-01-23,1
+EMP00478,Consulting,EMEA,Germany,Advisory,2019-01-30,1
+EMP00479,Consulting,APAC,India,Operations,2021-05-22,1
+EMP00480,Finance,APAC,Singapore,Global,2021-03-24,1
+EMP00481,People & Purpose,APAC,India,Operations,2020-02-13,1
+EMP00482,Audit,APAC,Singapore,Global,2021-11-03,1
+EMP00483,Consulting,Americas,Brazil,Operations,2026-06-20,1
+EMP00484,Legal,APAC,Singapore,Global,2018-11-01,1
+EMP00485,Consulting,EMEA,UAE,Advisory,2021-11-23,1
+EMP00486,Finance,EMEA,Germany,Global,2021-01-30,1
+EMP00487,Audit,Americas,Brazil,Operations,2024-09-01,1
+EMP00488,Legal,EMEA,UAE,Global,2018-06-21,1
+EMP00489,Audit,Americas,Canada,Advisory,2020-07-18,1
+EMP00490,Technology,EMEA,Germany,Global,2017-07-24,1
+EMP00491,People & Purpose,APAC,Singapore,Operations,2017-09-12,1
+EMP00492,Technology,APAC,India,Advisory,2022-05-25,1
+EMP00493,Technology,EMEA,Germany,Advisory,2018-03-08,1
+EMP00494,Audit,EMEA,UK,Operations,2021-06-06,1
+EMP00495,People & Purpose,Americas,USA,Operations,2024-03-25,1
+EMP00496,Audit,Americas,Canada,Global,2019-08-25,1
+EMP00497,People & Purpose,EMEA,UAE,Advisory,2021-04-23,1
+EMP00498,People & Purpose,APAC,Australia,Operations,2025-07-20,1
+EMP00499,Consulting,APAC,Singapore,Global,2024-05-01,1
+EMP00500,Tax,APAC,Australia,Advisory,2021-12-10,1
+EMP00501,Legal,EMEA,Germany,Global,2023-05-03,1
+EMP00502,Tax,Americas,Brazil,Advisory,2025-06-29,1
+EMP00503,Legal,EMEA,UK,Global,2022-05-01,1
+EMP00504,Tax,EMEA,Germany,Advisory,2018-07-11,1
+EMP00505,Audit,APAC,India,Global,2021-05-14,1
+EMP00506,Finance,APAC,India,Global,2025-10-20,1
+EMP00507,Legal,EMEA,UAE,Operations,2019-11-05,1
+EMP00508,Finance,EMEA,UK,Advisory,2023-11-25,1
+EMP00509,Consulting,APAC,Singapore,Advisory,2021-07-12,1
+EMP00510,Audit,APAC,Singapore,Global,2025-12-06,1
+EMP00511,Audit,APAC,Singapore,Operations,2025-09-19,1
+EMP00512,Finance,APAC,Singapore,Advisory,2020-12-26,1
+EMP00513,Consulting,EMEA,UAE,Operations,2022-12-15,1
+EMP00514,Legal,APAC,Australia,Advisory,2018-01-28,1
+EMP00515,Audit,EMEA,UK,Advisory,2024-07-08,1
+EMP00516,Technology,Americas,USA,Global,2017-08-01,1
+EMP00517,Legal,Americas,Brazil,Advisory,2024-10-25,1
+EMP00518,People & Purpose,EMEA,Germany,Operations,2021-01-07,1
+EMP00519,Technology,APAC,Australia,Operations,2025-09-04,1
+EMP00520,Audit,Americas,USA,Advisory,2017-09-29,1
+EMP00521,Legal,Americas,Brazil,Operations,2020-01-07,1
+EMP00522,Legal,Americas,Brazil,Advisory,2026-06-04,1
+EMP00523,Finance,EMEA,UAE,Operations,2023-05-25,1
+EMP00524,Technology,APAC,India,Global,2020-06-01,0
+EMP00525,Audit,Americas,Brazil,Advisory,2019-05-08,1
+EMP00526,Tax,EMEA,Germany,Global,2022-09-07,1
+EMP00527,Technology,EMEA,UAE,Operations,2017-03-13,1
+EMP00528,Consulting,APAC,Australia,Global,2021-10-28,1
+EMP00529,Tax,Americas,Canada,Global,2019-07-27,1
+EMP00530,Technology,APAC,India,Advisory,2017-03-27,1
+EMP00531,Technology,Americas,Canada,Advisory,2018-11-10,1
+EMP00532,Audit,EMEA,Germany,Advisory,2017-06-20,1
+EMP00533,Tax,EMEA,Germany,Advisory,2023-07-03,1
+EMP00534,Legal,EMEA,UAE,Advisory,2020-06-13,1
+EMP00535,People & Purpose,EMEA,Germany,Global,2018-07-29,1
+EMP00536,Technology,Americas,Brazil,Global,2023-01-19,1
+EMP00537,Legal,APAC,Australia,Operations,2023-03-21,1
+EMP00538,Consulting,Americas,Canada,Advisory,2024-07-19,1
+EMP00539,Technology,Americas,Canada,Global,2026-04-02,1
+EMP00540,Consulting,Americas,Canada,Operations,2019-10-03,1
+EMP00541,Tax,APAC,Singapore,Advisory,2026-06-01,1
+EMP00542,Consulting,Americas,Brazil,Operations,2020-10-25,1
+EMP00543,Tax,Americas,USA,Advisory,2023-03-16,1
+EMP00544,Finance,EMEA,Germany,Global,2021-09-21,1
+EMP00545,People & Purpose,APAC,India,Global,2024-11-02,1
+EMP00546,People & Purpose,APAC,Singapore,Advisory,2024-02-02,1
+EMP00547,Tax,Americas,Brazil,Advisory,2024-05-22,1
+EMP00548,Audit,EMEA,UK,Operations,2026-07-13,1
+EMP00549,Audit,EMEA,UAE,Operations,2019-03-11,1
+EMP00550,Audit,Americas,USA,Operations,2022-07-17,1
+EMP00551,Legal,EMEA,Germany,Operations,2023-10-20,1
+EMP00552,People & Purpose,EMEA,UAE,Advisory,2021-09-14,1
+EMP00553,Legal,Americas,Brazil,Global,2022-06-06,1
+EMP00554,Consulting,Americas,USA,Global,2022-04-18,1
+EMP00555,Technology,EMEA,UK,Operations,2024-10-17,1
+EMP00556,Audit,APAC,India,Global,2022-02-03,1
+EMP00557,Tax,Americas,Brazil,Global,2021-11-26,1
+EMP00558,Tax,APAC,India,Global,2022-06-03,1
+EMP00559,Finance,EMEA,Germany,Advisory,2021-09-09,1
+EMP00560,Legal,EMEA,Germany,Operations,2026-07-12,1
+EMP00561,Consulting,APAC,India,Global,2020-11-09,1
+EMP00562,Legal,APAC,Singapore,Global,2022-10-19,1
+EMP00563,Technology,EMEA,UK,Global,2025-01-05,1
+EMP00564,Technology,APAC,Australia,Advisory,2021-05-21,1
+EMP00565,Consulting,Americas,USA,Advisory,2023-03-14,1
+EMP00566,Audit,APAC,Singapore,Advisory,2023-12-16,1
+EMP00567,Finance,Americas,USA,Operations,2026-02-10,1
+EMP00568,Finance,EMEA,UAE,Advisory,2019-05-12,1
+EMP00569,Technology,APAC,India,Operations,2019-04-14,1
+EMP00570,Finance,APAC,Australia,Advisory,2019-12-11,1
+EMP00571,People & Purpose,Americas,Brazil,Advisory,2024-12-14,1
+EMP00572,People & Purpose,EMEA,Germany,Global,2017-06-25,1
+EMP00573,Finance,Americas,Brazil,Advisory,2020-04-05,1
+EMP00574,People & Purpose,EMEA,UAE,Advisory,2023-01-13,1
+EMP00575,Audit,APAC,Singapore,Operations,2022-11-22,1
+EMP00576,Legal,Americas,USA,Operations,2019-02-17,1
+EMP00577,Finance,EMEA,Germany,Operations,2026-04-28,1
+EMP00578,Tax,Americas,USA,Operations,2025-02-27,1
+EMP00579,Technology,APAC,Singapore,Advisory,2020-11-20,1
+EMP00580,Legal,APAC,Singapore,Advisory,2024-07-18,1
+EMP00581,Finance,APAC,Singapore,Advisory,2026-07-18,1
+EMP00582,Audit,APAC,India,Advisory,2017-07-05,1
+EMP00583,Consulting,Americas,USA,Advisory,2017-01-29,1
+EMP00584,Finance,Americas,Brazil,Global,2022-09-27,1
+EMP00585,Tax,Americas,Brazil,Operations,2017-08-28,1
+EMP00586,Finance,Americas,Canada,Operations,2019-07-24,1
+EMP00587,Finance,APAC,Singapore,Advisory,2017-12-23,1
+EMP00588,Consulting,EMEA,UK,Global,2025-01-18,1
+EMP00589,Consulting,APAC,Australia,Operations,2021-08-26,1
+EMP00590,Tax,Americas,USA,Operations,2017-06-17,1
+EMP00591,Tax,APAC,India,Global,2019-05-05,1
+EMP00592,Legal,Americas,Canada,Operations,2024-02-12,1
+EMP00593,People & Purpose,APAC,Singapore,Operations,2018-05-11,1
+EMP00594,People & Purpose,APAC,Singapore,Operations,2021-11-06,0
+EMP00595,Tax,APAC,Singapore,Global,2023-03-16,1
+EMP00596,Technology,Americas,USA,Operations,2020-04-16,0
+EMP00597,Tax,EMEA,UAE,Advisory,2019-03-12,0
+EMP00598,Audit,Americas,USA,Operations,2022-07-09,1
+EMP00599,Technology,Americas,Canada,Advisory,2022-10-23,1
+EMP00600,Legal,EMEA,Germany,Advisory,2022-05-12,1

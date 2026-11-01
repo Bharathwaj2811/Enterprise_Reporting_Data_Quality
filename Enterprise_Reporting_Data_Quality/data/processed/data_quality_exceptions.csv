@@ -1,0 +1,98 @@
+record_id,employee_id,source_system,issue_code,issue_detail
+REC0000001,EMP00537,CRM,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000002,EMP00559,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000003,EMP00428,Procurement,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000004,EMP00168,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000005,EMP00562,Procurement,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000006,EMP00341,LMS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000007,EMP00586,HRIS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000008,EMP00112,LMS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000009,EMP00056,LMS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000010,EMP00250,CRM,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000011,EMP00161,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000012,EMP00305,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000013,EMP00247,Procurement,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000014,EMP00477,Procurement,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000015,EMP00062,LMS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000001,EMP00049,CRM,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000002,EMP00340,HRIS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000003,EMP00137,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000004,EMP00501,HRIS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000005,EMP00063,CRM,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000006,EMP00399,HRIS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000007,EMP00349,LMS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000008,EMP00086,CRM,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000009,EMP00393,HRIS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000010,EMP00201,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000011,EMP00227,LMS,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000012,EMP00061,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000013,EMP00068,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000014,EMP99999,CRM,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000015,EMP00139,Finance,DUPLICATE_RECORD_ID,record_id is not unique
+REC0000051,EMP99999,CRM,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0000296,EMP99999,Procurement,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0000638,EMP99999,LMS,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0000881,EMP99999,Finance,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0001216,EMP99999,LMS,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0001359,EMP99999,LMS,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0001524,EMP99999,CRM,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0001919,EMP99999,Procurement,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0002238,EMP99999,HRIS,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0002425,EMP99999,CRM,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0002462,EMP99999,LMS,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0002479,EMP99999,CRM,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0003255,EMP99999,Finance,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0003398,EMP99999,LMS,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0003508,EMP99999,Procurement,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0004577,EMP99999,CRM,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0004772,EMP99999,Procurement,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0004824,EMP99999,Procurement,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0000014,EMP99999,CRM,UNKNOWN_EMPLOYEE,employee_id absent from master
+REC0000255,EMP00410,CRM,MISSING_RECORD_DATE,record_date is blank
+REC0000310,EMP00355,HRIS,MISSING_RECORD_DATE,record_date is blank
+REC0000573,EMP00083,HRIS,MISSING_RECORD_DATE,record_date is blank
+REC0000740,EMP00210,LMS,MISSING_RECORD_DATE,record_date is blank
+REC0000754,EMP00530,HRIS,MISSING_RECORD_DATE,record_date is blank
+REC0000867,EMP00509,LMS,MISSING_RECORD_DATE,record_date is blank
+REC0000921,EMP00109,CRM,MISSING_RECORD_DATE,record_date is blank
+REC0001094,EMP00582,Finance,MISSING_RECORD_DATE,record_date is blank
+REC0001109,EMP00530,Finance,MISSING_RECORD_DATE,record_date is blank
+REC0002075,EMP00398,HRIS,MISSING_RECORD_DATE,record_date is blank
+REC0002307,EMP00435,Finance,MISSING_RECORD_DATE,record_date is blank
+REC0002611,EMP00104,CRM,MISSING_RECORD_DATE,record_date is blank
+REC0002766,EMP00321,CRM,MISSING_RECORD_DATE,record_date is blank
+REC0003707,EMP00157,Finance,MISSING_RECORD_DATE,record_date is blank
+REC0003931,EMP00509,Procurement,MISSING_RECORD_DATE,record_date is blank
+REC0004001,EMP00254,HRIS,MISSING_RECORD_DATE,record_date is blank
+REC0004188,EMP00379,CRM,MISSING_RECORD_DATE,record_date is blank
+REC0004599,EMP00269,LMS,MISSING_RECORD_DATE,record_date is blank
+REC0004669,EMP00264,CRM,MISSING_RECORD_DATE,record_date is blank
+REC0004742,EMP00429,Procurement,MISSING_RECORD_DATE,record_date is blank
+REC0000342,EMP00470,Procurement,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0000601,EMP00363,Procurement,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0000706,EMP00569,HRIS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0001246,EMP00413,CRM,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0001772,EMP00128,LMS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002138,EMP00153,Finance,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002384,EMP00303,CRM,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002395,EMP00088,LMS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002576,EMP00151,Finance,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002849,EMP00318,LMS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002880,EMP00056,HRIS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0002934,EMP00209,HRIS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0003585,EMP00520,CRM,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0003624,EMP00431,Procurement,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0004258,EMP00261,Procurement,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0004401,EMP00145,LMS,INVALID_METRIC_VALUE,metric_value missing or negative
+REC0000356,EMP00330,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0000411,EMP00422,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0000645,EMP00180,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0001021,EMP00052,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0001154,EMP00156,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0001373,EMP00421,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0002521,EMP00544,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0002956,EMP00015,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0003252,EMP00367,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0004146,EMP00590,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0004737,EMP00505,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
+REC0004923,EMP00556,UNKNOWN_SYS,UNKNOWN_SOURCE,source_system not in approved source list
